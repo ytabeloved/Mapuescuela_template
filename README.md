@@ -8,7 +8,7 @@ Proyecto de desarrollo web con la finalidad de ayudar a un emprendedor en este c
 ### 🎯 Objetivos del proyecto
 - crear una pagina web desde su estructura html y agregando estilos
 - optimizar los estilos con el uso de css
-- incluir uso de javascrip para trasniciones y efectos para poder apoyar el diseño css
+- incluir uso de javascript para transiciones y efectos para poder apoyar el diseño css
 
 ## 🚀 Cómo visualizar el proyecto
 
