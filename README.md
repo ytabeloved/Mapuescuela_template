@@ -1,15 +1,14 @@
 # Mapu Escuela 🌍
 
-**Mapu Escuela** es una plataforma educativa interactiva que utiliza mapas digitales para enseñar sobre los pueblos originarios de Chile, su cosmovisión, territorio y lengua. El objetivo principal es acercar estos contenidos a estudiantes y docentes de manera lúdica, visual y accesible.
+**Mapu Escuela** Mapuescuela es un espacio de desarrollo integral donde niños, niñas y adolescentes que, por diversas razones, han desertado del sistema escolar, preparan sus materias para validar sus estudios en la modalidad de exámenes libres, realizando también talleres complementarios de huerto, hierbas medicinales, cocina, artes creativas y oficios tradicionales. 
 
 ## 🔎 Descripción
-
-Este proyecto permite explorar distintos aspectos del mundo mapuche mediante una interfaz amigable basada en LeafletJS. A través de un mapa interactivo, el usuario puede descubrir nombres geográficos en mapudungun, acceder a material complementario y conocer más sobre el Wallmapu y sus significados culturales.
+Proyecto de desarrollo web con la finalidad de ayudar a un emprendedor en este caso Mapuescuela a obtener presencia digital, desplegando los conocimientos adquiridos durante el ramo
 
 ### 🎯 Objetivos del proyecto
-- Relevar el territorio mapuche y su relación con la lengua y la identidad.
-- Apoyar experiencias educativas inclusivas e interculturales.
-- Facilitar recursos visuales accesibles para docentes y estudiantes.
+- crear una pagina web desde su estructura html y agregando estilos
+- optimizar los estilos con el uso de css
+- incluir uso de javascrip para trasniciones y efectos para poder apoyar el diseño css
 
 ## 🚀 Cómo visualizar el proyecto
 
@@ -22,7 +21,6 @@ El sitio está desplegado en Netlify y puede accederse desde el siguiente enlace
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Leaflet.js** (mapas interactivos)
 - **Netlify** (hosting)
 
 PROYECTO FINAL DISEÑO WEB
